@@ -1,0 +1,7 @@
+.DS_Store
+.vscode
+__pycache__
+logs
+venv
+.env
+state.json
